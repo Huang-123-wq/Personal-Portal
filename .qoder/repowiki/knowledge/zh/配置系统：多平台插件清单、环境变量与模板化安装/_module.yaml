@@ -1,0 +1,15 @@
+schema_version: 1
+module_path: configuration_system
+title: 配置系统：多平台插件清单、环境变量与模板化安装
+scope: []
+source_files:
+    - personal-portal/next.config.ts
+    - personal-portal/package.json
+    - personal-portal/src/lib/blog.ts
+    - superpowers/.claude-plugin/plugin.json
+    - superpowers/.opencode/plugins/superpowers.js
+    - ui-ux-pro-max-skill/cli/src/index.ts
+    - ui-ux-pro-max-skill/cli/src/commands/init.ts
+    - ui-ux-pro-max-skill/skills/ui-ux-pro-max/SKILL.md
+depends_on: []
+related_to: []

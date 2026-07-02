@@ -1,0 +1,14 @@
+schema_version: 1
+module_path: dependency_management
+title: 多生态依赖管理策略：npm、Bun 与零依赖 Python
+scope: []
+source_files:
+    - personal-portal/package.json
+    - personal-portal/package-lock.json
+    - ui-ux-pro-max-skill/cli/package.json
+    - ui-ux-pro-max-skill/cli/bun.lock
+    - ui-ux-pro-max-skill/skills/ui-ux-pro-max/scripts/core.py
+    - personal-portal/tsconfig.json
+    - ui-ux-pro-max-skill/cli/tsconfig.json
+depends_on: []
+related_to: []

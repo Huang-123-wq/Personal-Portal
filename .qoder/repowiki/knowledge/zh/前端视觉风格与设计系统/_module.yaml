@@ -1,0 +1,12 @@
+schema_version: 1
+module_path: frontend_style
+title: 前端视觉风格与设计系统
+scope: []
+source_files:
+    - awesome-design-md/design-md/linear.app/DESIGN.md
+    - personal-portal/src/components/ui/button.tsx
+    - ui-ux-pro-max-skill/skills/ui-ux-pro-max/data/styles.csv
+    - ui-ux-pro-max-skill/skills/ui-ux-pro-max/data/colors.csv
+    - ui-ux-pro-max-skill/skills/ui-ux-pro-max/data/typography.csv
+depends_on: []
+related_to: []

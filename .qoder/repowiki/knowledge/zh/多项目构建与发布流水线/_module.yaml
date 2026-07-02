@@ -1,0 +1,16 @@
+schema_version: 1
+module_path: build_system
+title: 多项目构建与发布流水线
+scope: []
+source_files:
+    - superpowers/scripts/bump-version.sh
+    - superpowers/.version-bump.json
+    - superpowers/.pre-commit-config.yaml
+    - ui-ux-pro-max-skill/.github/workflows/release.yml
+    - ui-ux-pro-max-skill/.releaserc.json
+    - ui-ux-pro-max-skill/.github/workflows/check-asset-sync.yml
+    - ui-ux-pro-max-skill/cli/package.json
+    - personal-portal/package.json
+    - personal-portal/next.config.ts
+depends_on: []
+related_to: []

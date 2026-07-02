@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "projects": 8,
+    "stars": 342,
+    "commits": 1280
+  },
+  "techStack": [
+    { "name": "TypeScript", "percentage": 35 },
+    { "name": "React", "percentage": 25 },
+    { "name": "Next.js", "percentage": 20 },
+    { "name": "Tailwind CSS", "percentage": 10 },
+    { "name": "Node.js", "percentage": 10 }
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "title": "TaskFlow 发布",
+      "description": "任务管理应用正式上线，获得 200+ GitHub Stars"
+    },
+    {
+      "year": "2024",
+      "title": "DataViz 开源",
+      "description": "数据可视化平台开源，社区贡献者超过 20 人"
+    },
+    {
+      "year": "2023",
+      "title": "全栈转型",
+      "description": "从前端转向全栈开发，深入后端架构与数据库设计"
+    },
+    {
+      "year": "2022",
+      "title": "前端深耕",
+      "description": "系统学习 React 与 TypeScript，建立现代化前端开发能力"
+    }
+  ]
+}

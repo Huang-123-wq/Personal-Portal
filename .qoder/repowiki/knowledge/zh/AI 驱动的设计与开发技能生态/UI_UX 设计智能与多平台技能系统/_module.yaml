@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: ui_ux_pro_max_skill
+title: UI/UX 设计智能与多平台技能系统
+scope:
+    - ui-ux-pro-max-skill/
+source_files: []
+depends_on: []
+related_to: []

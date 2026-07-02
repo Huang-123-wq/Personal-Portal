@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: personal_portal
+title: 个人门户与内容聚合系统
+scope:
+    - personal-portal/
+source_files: []
+depends_on: []
+related_to: []

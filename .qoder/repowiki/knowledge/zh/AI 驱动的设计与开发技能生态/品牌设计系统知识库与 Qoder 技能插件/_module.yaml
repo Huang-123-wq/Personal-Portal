@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: awesome_design_md
+title: 品牌设计系统知识库与 Qoder 技能插件
+scope:
+    - awesome-design-md/
+source_files: []
+depends_on: []
+related_to: []
